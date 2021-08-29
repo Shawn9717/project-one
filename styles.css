@@ -34,7 +34,7 @@ style>
         }
         th{
             border: solid;
-            colo:blue;
+            color:blue;
         }
         image{
             width: 300px;
@@ -60,5 +60,4 @@ style>
         u{
             color: red;
         }
-        
     
