@@ -1,0 +1,64 @@
+style>
+        h1 {
+            text-align: center;
+            color: #0000ff;
+        }
+
+        body {
+            background-color: black;
+        }
+
+        p {
+            color: green;
+            text-align: left;
+            font-style: normal;
+        }
+
+        h2 {
+            color: red;
+            text-align: left;
+            font-family: 'Courier New', Courier, monospace;
+        }
+
+        li {
+            color: blue;
+        }
+        table{
+            border: solid;
+            border-color: blue;
+            padding-inline-end: 0px;
+        }
+        td{
+            border: solid;
+            border-color:blue;
+        }
+        th{
+            border: solid;
+            colo:blue;
+        }
+        image{
+            width: 300px;
+            height: 300;
+            display: flex;
+            height: 100vh;
+            justify-content: center;
+        }
+        input{
+            color: red;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        .rounded{
+            border-radius: 50pc;
+            padding: 1px;
+        }
+        td{
+            color: brown;
+        }
+        th{
+            color: blue;
+        }
+        u{
+            color: red;
+        }
+        
+    
